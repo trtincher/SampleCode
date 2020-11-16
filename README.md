@@ -1,4 +1,8 @@
 # SampleCode
+This sample code comes from “Roomba Coding Challenge”. See https://github.com/trtincher/Roomba-Coding-Challenge for the full project.
+
+This code is a great example of integrating bootstrap into a custom form. What  is unique here is that the form is populated with the data from the appropriately formatted json file. This json file can be uploaded via the ‘File’ component with a file search or ‘drag and drop’ functionality.
+
 ```js
 import React, { useState, useEffect } from "react";
 import "./Form.css";
